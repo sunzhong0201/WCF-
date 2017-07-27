@@ -1,0 +1,9 @@
+D:\学习档案\2017年07月23号\WCFDemo\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\学习档案\2017年07月23号\WCFDemo\BLL\bin\Debug\BLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\BLL\bin\Debug\BLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\BLL\bin\Debug\IBLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\BLL\bin\Debug\IBLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\BLL\obj\Debug\BLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\BLL\obj\Debug\BLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\BLL\bin\Debug\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\BLL\bin\Debug\Models.pdb

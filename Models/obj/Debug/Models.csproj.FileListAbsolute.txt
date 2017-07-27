@@ -1,0 +1,4 @@
+D:\学习档案\2017年07月23号\WCFDemo\Models\bin\Debug\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\Models\bin\Debug\Models.pdb
+D:\学习档案\2017年07月23号\WCFDemo\Models\obj\Debug\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\Models\obj\Debug\Models.pdb

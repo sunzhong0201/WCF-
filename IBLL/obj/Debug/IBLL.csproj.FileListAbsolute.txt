@@ -1,0 +1,7 @@
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\bin\Debug\IBLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\bin\Debug\IBLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\obj\Debug\IBLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\obj\Debug\IBLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\bin\Debug\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\bin\Debug\Models.pdb
+D:\学习档案\2017年07月23号\WCFDemo\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache

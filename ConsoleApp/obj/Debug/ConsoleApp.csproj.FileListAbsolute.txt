@@ -1,0 +1,10 @@
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\IBLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\IBLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleApp\bin\Debug\Models.pdb

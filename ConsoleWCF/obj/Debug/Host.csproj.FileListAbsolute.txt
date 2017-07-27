@@ -1,0 +1,12 @@
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\ConsoleWCF.exe.config
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\ConsoleWCF.exe
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\ConsoleWCF.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\obj\Debug\ConsoleWCF.exe
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\obj\Debug\ConsoleWCF.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\BLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\IBLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\BLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\IBLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\Models.pdb

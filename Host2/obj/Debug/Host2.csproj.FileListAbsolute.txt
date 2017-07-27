@@ -1,0 +1,12 @@
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\Host2.dll.config
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\Host2.dll
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\Host2.pdb
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\BLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\IBLL.dll
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\BLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\IBLL.pdb
+D:\学习档案\2017年07月23号\WCFDemo\Host2\obj\Debug\Host2.csprojResolveAssemblyReference.cache
+D:\学习档案\2017年07月23号\WCFDemo\Host2\obj\Debug\Host2.dll
+D:\学习档案\2017年07月23号\WCFDemo\Host2\obj\Debug\Host2.pdb
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\Models.dll
+D:\学习档案\2017年07月23号\WCFDemo\Host2\bin\Models.pdb

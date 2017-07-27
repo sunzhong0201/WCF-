@@ -1,0 +1,6 @@
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\ConsoleWCF.exe.config
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\ConsoleWCF.exe
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\bin\Debug\ConsoleWCF.pdb
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\obj\Debug\ConsoleWCF.csprojResolveAssemblyReference.cache
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\obj\Debug\ConsoleWCF.exe
+D:\学习档案\2017年07月23号\WCFDemo\ConsoleWCF\obj\Debug\ConsoleWCF.pdb
